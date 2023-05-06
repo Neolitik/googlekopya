@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.box1 {
+    height: 200px;
+    width: 90%;
+    margin: auto;
+}
+
+.box2 {
+    background-color: rgb(223, 222, 222);
+    height: 100px;
+    width: 100%;
+    margin: auto 0 5px;
+}
+
+.box3 {
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    background-image: url("google.jpg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.yazi {
+    text-align: center;
+    font-size: 24px;
+}
+
+input {
+    margin: 0 40%;
+}
+
+.button1 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 45%;
+    padding: 4px 3px;
+    width: 100px;
+    margin-top: 5px;
+}
+
+.button2 {
+    text-align: center;
+    display: inline-block;
+    padding: 4px 3px;
+    width: 120px;
+}
+
+.button3 {
+    text-align: center;
+    padding: 4px 3px;
+    width: 100px;
+    margin-top: 5px;
+}
+
+.container {
+    height: 200px;
+    width: 90%;
+    margin: auto;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.icerik1 {
+    width: 40%;
+    height: 150px;
+    background-color: aquamarine;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 5px;
+}
+
+.icerik2 {
+    width: 20%;
+    height: 170px;
+    background-color: crimson;
+    float: left;
+    text-align: center;
+    padding-top:30px;
+    margin-left: 5px;
+}
+
+.icerik3 {
+    width: 39%;
+    height: 175px;
+    padding-top: 25px;
+    background-color: rgb(127, 157, 255);
+    float: left;
+    text-align: center;
+    margin-left: 5px;
+}
